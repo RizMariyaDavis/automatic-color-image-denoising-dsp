@@ -1,0 +1,10 @@
+Noise Type,Processing Stage,MSE,PSNR (dB),SSIM
+Gaussian,Noisy,572.2603,20.5549,0.2035
+Gaussian,Denoised,51.9860,30.9719,0.8299
+Gaussian,Enhanced,53.2299,30.8692,0.8300
+Salt-and-Pepper,Noisy,2265.5991,14.5790,0.1260
+Salt-and-Pepper,Denoised,61.2804,30.2576,0.9415
+Salt-and-Pepper,Enhanced,60.2254,30.3330,0.9446
+Periodic,Noisy,666.9063,19.8902,0.3555
+Periodic,Denoised,22.5843,34.5927,0.9410
+Periodic,Enhanced,25.7106,34.0297,0.9386
