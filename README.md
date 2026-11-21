@@ -98,3 +98,8 @@ The program generates visual results and performance reports, including:
 - Real-time image and video processing.
 - GPU acceleration for faster processing.
 - Development of a graphical user interface.
+
+<img width="1839" height="459" alt="01_original_and_noisy" src="https://github.com/user-attachments/assets/2431a886-d79f-466f-b31e-8eb746b9407b" />
+<img width="1839" height="1546" alt="04_comparison" src="https://github.com/user-attachments/assets/a7082b65-b427-4d90-9569-2495809cfbc5" />
+
+
